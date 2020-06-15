@@ -18,3 +18,7 @@ input {
   border: solid var(--secondary) 2px;
   cursor: pointer;
 }
+
+.current-cast {
+  border: solid gray 1px;
+}
