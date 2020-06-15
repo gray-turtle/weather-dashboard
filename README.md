@@ -10,7 +10,7 @@ Incomplete due to time. Will update with forecast cards and search history.
 
 ## Page Design
 
-![screenshot of completed webpage](./assets/full-site.png)
+![screenshot of completed webpage](./assets/images/full-site.png)
 
 ## Credits
 
