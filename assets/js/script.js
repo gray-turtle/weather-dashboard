@@ -17,7 +17,7 @@ var formSubmitHandler = function(event) {
 
 //fetch current weather from open weather
 var getCurrentWeather = function(city) {
-  var apiUrl = "http://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=b25ccab974b7cdb990c6c7ad3e93123b";
+  var apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=b25ccab974b7cdb990c6c7ad3e93123b";
   
   fetch(apiUrl).then(function(response) {
     if (response.ok) {
