@@ -67,4 +67,12 @@ var displayWeather = function(weather) {
   currentWeatherEl.appendChild(weatherEl);
 }
 
+//get forecast
+
+//generate forecast cards
+
+//store search terms
+
+//generate list of stored search terms
+
 userFormEl.addEventListener("submit", formSubmitHandler);
